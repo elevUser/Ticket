@@ -1,4 +1,4 @@
-ticket : flightsclass.h bookingsclass.h functions.h flightsclass.cpp bookingsclass.cpp functions.cpp main.cpp
+ticket : flight_informations.hh booking_informations.hh functions.hh flight_informations.cpp booking_informations.cpp functions.cpp main.cpp
 	g++ main.cpp flightsclass.cpp bookingsclass.cpp functions.cpp -o main
 	
 check : ticket
