@@ -8,7 +8,7 @@
  * @copyright NULL
  *
  */
-#include "flightsclass.h"
+#include "flight_informations.hh"
 using namespace std;
 
 /*  Define setters and getters */
