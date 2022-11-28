@@ -8,7 +8,7 @@
  * @copyright NULL
  *
  */
-#include "functions.h"
+#include "functions.hh"
 using namespace std;
 /**
  * @brief Flight_list function to parse CSV file
