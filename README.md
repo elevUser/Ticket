@@ -9,15 +9,15 @@ Then based on data in Csv files the program prints flight tickets.
 To deploy this project run
 
 ```bash
-  git clone https://github.com/elevUser/Ticket.git
+  ~git clone https://github.com/elevUser/Ticket.git
 ```
 ```bash
-  make
-  ./main -f flights.csv -b bookingsfile.csv
+  ~make
+  ~./main -f flights.csv -b bookingsfile.csv
 ```
 For help type
 ```bash
-  ./main -h
+  ~./main -h
 ```
 
 
