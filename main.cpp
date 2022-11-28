@@ -10,8 +10,8 @@
  */
 #include <iostream>
 #include <list>
-#include "functions.h"
 #include <unistd.h>
+#include "functions.hh"
 #include "flight_informations.hh"
 #include "booking_informations.hh"
 using namespace std;
