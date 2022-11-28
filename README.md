@@ -19,7 +19,7 @@ For help type
 ```bash
   ~./main -h
 ```
-##Example
+## Example
 
 Running the program
 ```bash
