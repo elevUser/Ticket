@@ -8,7 +8,7 @@
  * @copyright NULL
  *
  */
-#include "bookingsclass.h"
+#include "booking_information.hh"
 using namespace std;
 
 /* Define setters and getters*/
