@@ -12,6 +12,12 @@ To deploy this project run
   git clone https://github.com/elevUser/Ticket.git
 ```
 ```bash
-  make -f flights.csv -b bookingsfile.csv
+  make
+  ./main -f flights.csv -b bookingsfile.csv
 ```
+For help type
+```bash
+  ./main -h
+```
+
 
