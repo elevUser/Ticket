@@ -13,8 +13,8 @@
 #include <sstream>
 #include <list>
 #include <string>
-#include "flightsclass.h"
-#include "bookingsclass.h"
+#include "flight_informations.hh"
+#include "booking_informations.hh"
 using namespace std;
 /**
  * @brief Function prototype to fill flight_list
